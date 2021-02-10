@@ -1,4 +1,4 @@
-### Hey! this is Harsh <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 👋
+### Hey! this is Harsh Kumar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### 2nd Year CSE Undergraduate Student at PEC, Competitive Programming Enthusiast
 
 - 🔭 I’m currently working on Web Applications
