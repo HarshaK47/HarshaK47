@@ -6,4 +6,6 @@
 - 🔭 I’m currently working on Web Applications
 - 🌱 I’m currently learning ML, Artificial Intelligence and Web Development
 - 💬 Ask me about Algorithms, Data Analytics
-
+### Connect with me:
+<a href="https://www.linkedin.com/in/harshk04/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href="https://github.com/HarshaK47/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
