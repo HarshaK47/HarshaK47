@@ -9,3 +9,5 @@
 ### Connect with me:
 <a href="https://www.linkedin.com/in/harshk04/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href="https://github.com/HarshaK47/"><img src="https://img.icons8.com/fluent/48/000000/github.png"/></a>
+### Languages and Tools:
+<img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/python.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/html-5.png"/> &nbsp; <img src="https://img.icons8.com/color/48/000000/css3.png"/>
