@@ -1,5 +1,5 @@
 ### Hey! this is Harsh Kumar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### SID-19103016 2nd Year CSE Undergraduate Student at PEC, Competitive Programming Enthusiast
+#### SID-19103016 3rd Year CSE Undergraduate Student at PEC, Competitive Programming Enthusiast
 
 ![HarshK's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaK47&show_icons=true&theme=dracula)
 
