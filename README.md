@@ -1,7 +1,7 @@
 ### Hey! this is Harsh Kumar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 #### 3rd Year CSE Undergraduate Student at PEC, Competitive Programming Enthusiast
 
-![HarshK's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaK47&show_icons=true&theme=dracula)
+![HarshK's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaK47&show_icons=true&theme=dracula)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaK47&layout=compact&count_private=true&show_icons=true&theme=algolia" />
 
 - 🔭 I’m currently working on Web Applications
