@@ -4,7 +4,7 @@
 ![HarshK's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaK47&show_icons=true&theme=dracula)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaK47&layout=compact&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" />
 
-- 🔭 I’m currently working on Web Applications
+- 🔭 I’m currently working on Mobile/Web Applications
 - 🌱 I’m currently learning ML, Artificial Intelligence and Web Development
 - 💬 Ask me about Algorithms, Data Analytics
 ### Connect with me:
