@@ -1,5 +1,5 @@
 ### Hey! this is Harsh Kumar <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-#### 4th Year CSE Undergraduate Student at PEC, Backend Development || Competitive Programming Enthusiast
+#### 4th Year CSE Undergraduate Student, Full-Stack Development || Competitive Programming Enthusiast
 
 ![HarshK's GitHub stats](https://github-readme-stats.vercel.app/api?username=HarshaK47&show_icons=true&theme=dracula)<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaK47&layout=compact&count_private=true&show_icons=true&theme=algolia&include_all_commits=true" />
